@@ -1,0 +1,47 @@
+
+a. What did the system do?
+b. What other systems have you seen in the wild like that?
+c. How do you approach the development problem?
+d. What were interesting aspects where you copied code from Stack Overflow?
+e. What did you learn from some very specific copy paste? Mention explicitly some
+of them.
+
+Question-1:  Elaborate what your internship or academic projects were?
+Ans: My academic projects were Airline Booking system and Twitter Application. These were totally backend projects which i have completed using Nodejs.
+Airline Booking System:-So if i talk about this so that was a CRUD application.
+-So to builed this application i used Javascript in Nodejs environment and to builed the server i used Express.js and for database i used MongoDB.
+
+Twitter Backend Clone : -So if i talk about that Airline Booking system so that was a CRUD application.
+-So to builed this application i used Javascript in Nodejs environment and to builed the server i used Express.js and for database i used MongoDB.
+
+Question-2: What did the system do?
+Ans: So if i talk about my Twitter Application its was a CRUD application in which user will register first and then user
+can do following operations -
+-User can watch videos.
+-user can tweet aur post something.
+-user can check others profiles as well.
+-user can edit profiles .
+-in that application i have used Autherization services.
+
+Question-3: What other systems have you seen in the wild like that?
+ Ans: So basically i have seen some Social Media applications like Instagram, Twitter, Facebook. So these systems helps us to think like 
+ how things are working and how we can make it.
+
+ Question-4: How do you approach the development problem?
+ Ans: So to develope something first of all you have to learn aur familiar with programming and Technology. 
+ So my plan was first learn the basics and medium and then slowly start to builed that application and whenever 
+ i stuck somewhere i started searching it in google and all like how can i builed this and where i am doing mistake.
+ So that was my approach.
+
+ Question-5: What were interesting aspects where you copied code from Stack Overflow?
+ Ans: While building that application i was not able to understand Authentication and Autherization part so i did 
+ copy some kind of code from Stack Overflow after that i leart that part .
+
+Question-6: What did you learn from some very specific copy paste? Mention explicitly some
+of them.
+Ans: When discussing copy-pasting code there are several key lessons or observations one
+ can make, especially when considering the context of software development, system design, or general communication.
+  Here are some specific takeaways from the copy-paste process, focusing on potential issues and learnings:
+
+  1-Code Reusability 
+  2-Security Concerns:
